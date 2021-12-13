@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OutsideDigitalTest/static/css/main.9052aa1a.chunk.css",
+    "main.js": "/OutsideDigitalTest/static/js/main.1ff9774d.chunk.js",
+    "main.js.map": "/OutsideDigitalTest/static/js/main.1ff9774d.chunk.js.map",
+    "runtime-main.js": "/OutsideDigitalTest/static/js/runtime-main.9227bd42.js",
+    "runtime-main.js.map": "/OutsideDigitalTest/static/js/runtime-main.9227bd42.js.map",
+    "static/js/2.7e491b13.chunk.js": "/OutsideDigitalTest/static/js/2.7e491b13.chunk.js",
+    "static/js/2.7e491b13.chunk.js.map": "/OutsideDigitalTest/static/js/2.7e491b13.chunk.js.map",
+    "index.html": "/OutsideDigitalTest/index.html",
+    "static/css/main.9052aa1a.chunk.css.map": "/OutsideDigitalTest/static/css/main.9052aa1a.chunk.css.map",
+    "static/js/2.7e491b13.chunk.js.LICENSE.txt": "/OutsideDigitalTest/static/js/2.7e491b13.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/OutsideDigitalTest/static/media/LabGrotesque-Regular.2b7d5ea4.ttf",
+    "static/media/checked.62a8ceae.svg": "/OutsideDigitalTest/static/media/checked.62a8ceae.svg",
+    "static/media/close.beb7d290.svg": "/OutsideDigitalTest/static/media/close.beb7d290.svg",
+    "static/media/closeSmall.5cfd960d.svg": "/OutsideDigitalTest/static/media/closeSmall.5cfd960d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9227bd42.js",
+    "static/js/2.7e491b13.chunk.js",
+    "static/css/main.9052aa1a.chunk.css",
+    "static/js/main.1ff9774d.chunk.js"
+  ]
+}
